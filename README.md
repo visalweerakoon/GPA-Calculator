@@ -19,10 +19,10 @@ To calculate GPA for multiple semesters. Users can add semesters, add modules wi
 
 ## Screenshots
 
-![Main Page](./Screenshots/Main page.jpeg)
+![Main Page](./Screenshots/main_page.jpeg)
 
 ### Semester Page
-![Semester Page](./Screenshots/Semester page.jpeg)
+![Semester Page](./Screenshots/semester_page.jpeg)
 
 ---
 
