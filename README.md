@@ -19,10 +19,10 @@ To calculate GPA for multiple semesters. Users can add semesters, add modules wi
 
 ## Screenshots
 
-![Main Page](Screenshots/Main page.jpeg)
+![Main Page](./Screenshots/Main page.jpeg)
 
 ### Semester Page
-![Semester Page](Screenshots/Semester page.jpeg)
+![Semester Page](./Screenshots/Semester page.jpeg)
 
 ---
 
@@ -31,5 +31,5 @@ To calculate GPA for multiple semesters. Users can add semesters, add modules wi
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/GPA_Calculator.git
+git clone https://github.com/visalweerakoon/GPA-Calculator.git
 cd GPA_Calculator
