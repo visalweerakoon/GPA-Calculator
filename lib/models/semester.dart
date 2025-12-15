@@ -12,6 +12,7 @@ class Semester {
   double get gpa {
     double totalPoints = 0;
     double totalCredits = 0;
+    double totalCredits = 0;
     for (var sub in subjects) {
       double? points = gradePoints[sub.grade];
       if (points != null) {
